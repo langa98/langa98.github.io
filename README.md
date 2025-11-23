@@ -46,5 +46,6 @@ Check out all my code here: [https://github.com/langa98](https://github.com/lang
 ---
 
 ## 📫 Contact Me
-- **Email:** nkosilanga04@gmail.com*  
+- **Email:** nkosilanga04@gmail.com*
+- **Phone Number:** 0604469188 
 - **GitHub:** [https://github.com/langa98](https://github.com/langa98)
