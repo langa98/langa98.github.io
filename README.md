@@ -1,37 +1,50 @@
-# 👋 Hi, I'm Langelihle
+<p align="center">
+  <img src="https://github.com/langa98/langa98.github.io/blob/main/profile.jpg" alt="Langelihle" width="150"/>
+</p>
 
-I'm a programmer skilled in **C++**, **Java**, **Linux basics**, and **Git & GitHub**.  
-I enjoy building projects that solve real-world problems and learning new technologies in programming and cybersecurity.
+<h1 align="center">Hi, I'm Langelihle 👋</h1>
+<h3 align="center">C++ & Java Developer | Linux & Git Enthusiast</h3>
 
 ---
 
 ## 💻 Skills
 
-- **Programming Languages:** C++, Java  
-- **Operating Systems:** Linux basics  
-- **Tools & Concepts:** Git & GitHub, basic cybersecurity principles
+![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/Git-red?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+
+- 💻 **Programming Languages:** C++, Java  
+- 🐧 **Operating Systems:** Linux basics  
+- 🔧 **Tools & Concepts:** Git & GitHub, basic cybersecurity principles
 
 ---
 
-## 🛠 Projects
+## 🌟 Featured Projects
 
 ### 1️⃣ Password Strength Checker
 - **Language:** C++  
-- Checks user passwords for strength based on length, character types, and common patterns.  
-- **Purpose:** Helps users create strong, secure passwords.  
+- **Description:** Checks user passwords for strength based on length, character types, and common patterns.  
+- **Code / Repo:** [View on GitHub](https://github.com/langa98/password-checker)
 
-### 2️⃣ CARE Project
+### 2️⃣ CARE Project (Terminal-Based)
 - **Language:** C++  
-- **Description:** Built for disaster management in South Africa. Managers in every capital city of each province can log requests, and the system responds with available resources.  
-- **Skills Applied:** C++, problem-solving, data handling  
+- **Description:** Terminal-based disaster management system for South Africa. Managers log requests, system responds with available resources.  
+- **Code / Repo:** [View on GitHub](https://github.com/langa98/C.A.R.E)
+
+### 3️⃣ Java Calculator
+- **Language:** Java  
+- **Description:** Terminal-based calculator performing addition, subtraction, multiplication, and division.  
+- **Code / Repo:** [View on GitHub](https://github.com/langa98/Simple-Calculator)
 
 ---
 
 ## 📂 GitHub Projects
-You can see all my code here: [https://github.com/langa98](https://github.com/langa98)
+Check out all my code here: [https://github.com/langa98](https://github.com/langa98)
 
 ---
 
 ## 📫 Contact Me
-- **Email:** nkosilanga04@gmail.com 
+- **Email:** nkosilanga04@gmail.com*  
 - **GitHub:** [https://github.com/langa98](https://github.com/langa98)
