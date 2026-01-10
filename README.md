@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/langa98/langa98.github.io/blob/main/profile.jpg" alt="Langelihle" width="150"/>
+  
 </p>
 
 <h1 align="center">Hi, I'm Langelihle 👋</h1>
