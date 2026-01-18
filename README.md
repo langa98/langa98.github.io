@@ -30,19 +30,19 @@ C++ & Java Developer | BSc Mathematics & Computer Science Student
 **Language:** C++  
 **Description:** Simulates a fraud detection system by tracking user transactions, detecting anomalies like high velocity, excessive daily amounts, unfamiliar locations, and new devices. Flags suspicious transactions and outputs them to a CSV file.  
 **Status:** ![Build](https://img.shields.io/badge/Status-Completed-green)  
-**Code / Repo:** [View on GitHub](https://github.com/langa98/FraudDetectionSimulator)  
+**Code / Repo:** [View on GitHub](https://github.com/langa98/REAL-TIME-FRAUD-SIGNAL)  
 
 ### 3️⃣ CARE Project (Terminal-Based) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 **Language:** C++  
 **Description:** Terminal-based disaster management system for South Africa. Managers log requests, and the system responds with available resources.  
 **Status:** ![Build](https://img.shields.io/badge/Status-Completed-green)  
-**Code / Repo:** [View on GitHub](https://github.com/langa98/care)  
+**Code / Repo:** [View on GitHub](https://github.com/langa98/C.A.R.E)  
 
 ### 4️⃣ Password Strength Checker ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 **Language:** C++  
 **Description:** Checks user passwords for strength based on length, character types, and common patterns.  
 **Status:** ![Build](https://img.shields.io/badge/Status-Completed-green)  
-**Code / Repo:** [View on GitHub](https://github.com/langa98/PasswordStrengthChecker)  
+**Code / Repo:** [View on GitHub](https://github.com/langa98/password-checker)  
 
 ---
 
