@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Langelihle 👋
-C++ & C# Developer | BSc Mathematics & Computer Science Student
+C++ & C# Developer(.NET) | SQL SERVER | BSc Mathematics & Computer Science Student
 
 </div>
 
