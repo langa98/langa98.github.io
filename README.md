@@ -9,7 +9,7 @@
 I enjoy building practical software systems, working with databases, and understanding how applications work from the backend to the user interface.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/langa98)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/langelihle-nkosi-526a07414/)
 
 </div>
 
@@ -100,7 +100,7 @@ Sol Plaatje University
 
 [![GitHub](https://img.shields.io/badge/GitHub-langa98-181717?style=for-the-badge\&logo=github)](https://github.com/langa98)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/langelihle-nkosi-526a07414/)
 
 </div>
 
