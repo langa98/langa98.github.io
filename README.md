@@ -1,71 +1,127 @@
 <div align="center">
 
 # Hi, I'm Langelihle 👋
-C++ & C# Developer(.NET) | SQL SERVER | BSc Mathematics & Computer Science Student
+
+### Software Developer | C++ & C# / .NET | SQL Server
+
+**BSc Mathematics & Computer Science Student**
+
+I enjoy building practical software systems, working with databases, and understanding how applications work from the backend to the user interface.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/langa98)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
 
 </div>
 
 ---
 
-## 💻 Skills
+## 💻 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=database\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### Frameworks & Technologies
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 1️⃣ Memory Leak Detective ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-**Language:** C++  
-**Description:** A diagnostic tool that identifies and reports heap memory leaks in programs. Tracks all dynamic allocations (`new`) and deallocations (`delete`) and reports memory not freed at program termination.  
-**Status:** ![Build](https://img.shields.io/badge/Status-Completed-green)  
-**Code / Repo:** [View on GitHub](https://github.com/langa98/MemoryLeakDetective)  
+### 🚗 Drive Mzansi — Vehicle Rental Management System
 
-### 2️⃣ Fraud Detection Simulator ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSV](https://img.shields.io/badge/Output-CSV-yellow?style=for-the-badge)
-**Language:** C++  
-**Description:** Simulates a fraud detection system by tracking user transactions, detecting anomalies like high velocity, excessive daily amounts, unfamiliar locations, and new devices. Flags suspicious transactions and outputs them to a CSV file.  
-**Status:** ![Build](https://img.shields.io/badge/Status-Completed-green)  
-**Code / Repo:** [View on GitHub](https://github.com/langa98/REAL-TIME-FRAUD-SIGNAL)  
+A full-stack vehicle rental management system built with **Flask, Python, HTML/CSS, Jinja2 and Microsoft SQL Server**.
 
-### 3️⃣ CARE Project (Terminal-Based) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-**Language:** C++  
-**Description:** Terminal-based disaster management system for South Africa. Managers log requests, and the system responds with available resources.  
-**Status:** ![Build](https://img.shields.io/badge/Status-Completed-green)  
-**Code / Repo:** [View on GitHub](https://github.com/langa98/C.A.R.E)  
+The system supports:
 
-### 4️⃣ Password Strength Checker ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-**Language:** C++  
-**Description:** Checks user passwords for strength based on length, character types, and common patterns.  
-**Status:** ![Build](https://img.shields.io/badge/Status-Completed-green)  
-**Code / Repo:** [View on GitHub](https://github.com/langa98/password-checker)  
+* Customer, Staff and Admin roles
+* Vehicle availability and booking management
+* Payment tracking
+* Overdue rental detection
+* Late-fee calculation
+* Automated booking and vehicle-status management
+* Operational and financial reports
+* Database administration
+* Role-based access control
+
+**Repository:** [VehicleRentalSystem](https://github.com/langa98/VehicleRentalSystem)
 
 ---
 
-## 📂 GitHub Projects
-Check out all my code here: [https://github.com/langa98](https://github.com/langa98)
+### 🧠 Memory Leak Detective
+
+A diagnostic C++ tool designed to identify and report heap memory leaks.
+
+The system tracks dynamic allocations and deallocations and reports memory that remains unfreed when a program terminates.
 
 ---
 
-## 🌱 Learning & Growth
-- Expanding expertise in **C++ memory management and diagnostics**  
-- Building **real-world simulation projects** for portfolio readiness  
-- Learning **advanced Java patterns and APIs**  
-- Exploring **multithreading, APIs, and microservices** for system-level development  
+### 💳 Fraud Detection Simulator
+
+A C++ fraud-detection simulation that analyses user transactions and identifies suspicious activity.
+
+The system considers signals such as transaction velocity, transaction amounts, locations, devices and transaction patterns.
 
 ---
 
-## 📫 Contact Me
----
-#  click
+### 🚨 C.A.R.E — Disaster Management System
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Langelihle%20Nkosi-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/langelihle-nkosi-526a07414)
-[![GitHub](https://img.shields.io/badge/GitHub-langa98-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/langa98)
-[![Gmail](https://img.shields.io/badge/Gmail-nkosilanga04%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nkosilanga04@gmail.com)
+A terminal-based disaster management system designed around resource allocation for emergency situations in South Africa.
 
+Managers can log requests while the system matches requests with available resources.
 
 ---
+
+## 📂 More Projects
+
+More of my work can be found on my GitHub:
+
+[![GitHub](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/langa98?tab=repositories)
+
+---
+
+## 🎯 What I'm Working Towards
+
+I'm focused on becoming a strong **Software Engineer**, with an interest in backend development, databases and building reliable software systems.
+
+My long-term goal is to grow into a **Technical Lead Engineer**, combining software development experience with strong problem-solving, system design and engineering fundamentals.
+
+---
+
+## 🎓 Education
+
+**BSc Mathematical & Computer Sciences**
+Sol Plaatje University
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-langa98-181717?style=for-the-badge\&logo=github)](https://github.com/langa98)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building systems. Solving problems. Learning continuously.
+
+</div>
