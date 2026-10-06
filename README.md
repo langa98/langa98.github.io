@@ -41,61 +41,47 @@ I enjoy building practical software systems, working with databases, and underst
 
 ## 🌟 Featured Projects
 
-### 🚗 Drive Mzansi — Vehicle Rental Management System
+### 🚗 [Drive Mzansi — Vehicle Rental Management System](https://github.com/langa98/VehicleRentalSystem)
 
-A full-stack vehicle rental management system built with **Flask, Python, HTML/CSS, Jinja2 and Microsoft SQL Server**.
+A full-stack vehicle rental system for managing customers, vehicles, bookings and payments. It includes separate Customer, Staff and Admin functionality, with reporting, automated rental processing, overdue detection and database administration.
 
-The system supports:
-
-* Customer, Staff and Admin roles
-* Vehicle availability and booking management
-* Payment tracking
-* Overdue rental detection
-* Late-fee calculation
-* Automated booking and vehicle-status management
-* Operational and financial reports
-* Database administration
-* Role-based access control
-
-**Repository:** [VehicleRentalSystem](https://github.com/langa98/VehicleRentalSystem)
+**Tech:** Python • Flask • SQL Server • HTML/CSS • Jinja2
 
 ---
 
-### 🧠 Memory Leak Detective
+### 🧠 [Memory Leak Detective](YOUR_MEMORY_LEAK_REPO)
 
-A diagnostic C++ tool designed to identify and report heap memory leaks.
+A C++ diagnostic tool for detecting memory leaks in programs using dynamic memory. It tracks allocations and deallocations and reports memory that remains unfreed when the program terminates. The project focuses on understanding memory management and making resource-related problems easier to identify.
 
-The system tracks dynamic allocations and deallocations and reports memory that remains unfreed when a program terminates.
-
----
-
-### 💳 Fraud Detection Simulator
-
-A C++ fraud-detection simulation that analyses user transactions and identifies suspicious activity.
-
-The system considers signals such as transaction velocity, transaction amounts, locations, devices and transaction patterns.
+**Tech:** C++
 
 ---
 
-### 🚨 C.A.R.E — Disaster Management System
+### 💳 [Fraud Detection Simulator](YOUR_FRAUD_REPO)
 
-A terminal-based disaster management system designed around resource allocation for emergency situations in South Africa.
+A C++ simulation that analyses financial transactions and identifies potentially fraudulent activity. It evaluates factors such as transaction frequency, spending amounts, locations, devices and suspicious patterns, then flags transactions for review.
 
-Managers can log requests while the system matches requests with available resources.
+**Tech:** C++
+
+---
+
+### 🚨 [C.A.R.E — Disaster Management System](YOUR_CARE_REPO)
+
+A terminal-based disaster management system focused on allocating limited emergency resources to disaster requests. Managers can submit requests while the system matches them with suitable available resources.
+
+**Tech:** C++
 
 ---
 
 ## 📂 More Projects
 
-More of my work can be found on my GitHub:
-
-[![GitHub](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/langa98?tab=repositories)
+[![Explore Repositories](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/langa98?tab=repositories)
 
 ---
 
 ## 🎯 What I'm Working Towards
 
-I'm focused on becoming a strong **Software Engineer**, with an interest in backend development, databases and building reliable software systems.
+I'm focused on becoming a strong **Software Engineer**, particularly in backend development, databases and reliable software systems.
 
 My long-term goal is to grow into a **Technical Lead Engineer**, combining software development experience with strong problem-solving, system design and engineering fundamentals.
 
