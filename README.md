@@ -49,7 +49,7 @@ A full-stack vehicle rental system for managing customers, vehicles, bookings an
 
 ---
 
-### 🧠 [Memory Leak Detective](YOUR_MEMORY_LEAK_REPO)
+### 🧠 [Memory Leak Detective](https://github.com/langa98/MemoryLeakDetective)
 
 A C++ diagnostic tool for detecting memory leaks in programs using dynamic memory. It tracks allocations and deallocations and reports memory that remains unfreed when the program terminates. The project focuses on understanding memory management and making resource-related problems easier to identify.
 
@@ -57,7 +57,7 @@ A C++ diagnostic tool for detecting memory leaks in programs using dynamic memor
 
 ---
 
-### 💳 [Fraud Detection Simulator](YOUR_FRAUD_REPO)
+### 💳 [Fraud Detection Simulator](https://github.com/langa98/REAL-TIME-FRAUD-SIGNAL)
 
 A C++ simulation that analyses financial transactions and identifies potentially fraudulent activity. It evaluates factors such as transaction frequency, spending amounts, locations, devices and suspicious patterns, then flags transactions for review.
 
@@ -65,7 +65,7 @@ A C++ simulation that analyses financial transactions and identifies potentially
 
 ---
 
-### 🚨 [C.A.R.E — Disaster Management System](YOUR_CARE_REPO)
+### 🚨 [C.A.R.E — Disaster Management System](https://github.com/langa98/C.A.R.E)
 
 A terminal-based disaster management system focused on allocating limited emergency resources to disaster requests. Managers can submit requests while the system matches them with suitable available resources.
 
